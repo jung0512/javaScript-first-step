@@ -33,3 +33,5 @@ if문으로 gameNum과 com이 같다면 맞았다는 사진을 출력해 준다<
 ![image](https://user-images.githubusercontent.com/102035198/173515256-9d8f4660-53e2-4ccc-b160-ed04e5267ef0.png)<br>
 gameNum과 com이 같지 않다면 틀렸다는 사진을 출력해준다<br>
 ![image](https://user-images.githubusercontent.com/102035198/173514493-e28b55d4-af2f-41ad-b152-0ab1633ea427.png)<br>
+# 가위 바위 보 게임 출력화면
+![image](https://user-images.githubusercontent.com/102035198/173517001-d83197a8-ba7b-4ded-8554-f90a7240d11b.png)<br>
